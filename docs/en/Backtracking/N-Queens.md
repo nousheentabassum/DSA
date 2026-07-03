@@ -1,4 +1,4 @@
-# N-Queens Problem
+# N-Queens Problem  
 
 N-Queens is a backtracking problem. Given a N x N chess board, our task is to arrange N queens in a way such that no two queens attack each other. Two queens are attacking each other if they are in same row, same column or diagonal. Minimum chess board size should be 4x4.
 
