@@ -1,4 +1,4 @@
-# Doubly Linked List
+# Doubly Linked List     
 
 A doubly linked list is a type of linked data structure that allows traversal in both directions (forward and backward directions). 
 It differs from singly linked list in that, singly linked list does not support backward traversal. 
