@@ -2,7 +2,7 @@
 # This is an algorithm for traversing a graph in depth first search manner
 # It is commonly used in tree/graph traversals
 # Time Complexity: O(V+E)
-# Space Complexity: O(V)
+# Space Complexity: O(V)   
 # V is number of vertices and E is number of edges
 
 """
