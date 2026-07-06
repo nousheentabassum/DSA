@@ -1,5 +1,5 @@
 """
-BFS graph using Adjecency List
+BFS graph using Adjecency List  
 -----------------------------------------------------------------------------------------
 -In Breadth First Search Sequence of any graph all children of a parent node 
  is visited first and the children are stored in the QUEUE array and 
